@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Trisandya Time</string>
+    
+    <string name="pref_name">My pref</string>
+    <string name="pref_key">My Key</string>
+    
+    <string name="slide1_title">Om Swastyastu</string>
+    <string name="slide1_des">Trisandya Time adalah aplikasi pengingat Trisandya yang dikombinasikan dengan doa-doa keseharian agama Hindu.</string>
+
+    <string name="slide2_title">Fitur dan Fungsi</string>
+    <string name="slide2_des">Fitur aplikasi ini adalah mengingatkan waktu terisandya sesuai dengan waktu dimanapun umat sedarma berada.</string>
+
+    <string name="slide3_title">Selamat Mencoba</string>
+    <string name="slide3_des">Dengan aplikasi ini semoga umat sedarma lebih mudah dalam mengingat waktu dalam melakukan Puja Trisandya, serta doa-doa keseharian agama Hindu.</string>
+</resources>
